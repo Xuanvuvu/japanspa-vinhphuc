@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Japan Spa Vĩnh Phúc | Xông Hơi Massage Chuẩn Nhật Cao Cấp</title>
+    <meta name="description" content="Japan Spa Vĩnh Phúc – Spa xông hơi massage chuẩn Nhật cao cấp. Không gian tím đen sang trọng, phòng rộng sạch, dịch vụ thư giãn – chăm sóc sức khỏe chuyên sâu." />
+    <meta name="keywords" content="Japan Spa Vĩnh Phúc, spa xông hơi Vĩnh Phúc, massage Nhật Bản, spa cao cấp Vĩnh Phúc, xông hơi đá muối" />
+
+    <!-- Open Graph / TikTok / Facebook -->
+    <meta property="og:title" content="Japan Spa Vĩnh Phúc – Xông Hơi Massage Chuẩn Nhật" />
+    <meta property="og:description" content="Trải nghiệm spa chuẩn Nhật, không gian tím đen sang trọng, thư giãn – phục hồi – nâng cao sức khỏe." />
+    <meta property="og:type" content="website" />
+
+    <style>
+        body { margin: 0; font-family: "Segoe UI", Arial, sans-serif; background: #0d0b14; color: #eee; }
+        header { background: radial-gradient(circle at top, #3b2a5f, #0d0b14); padding: 60px 20px; text-align: center; }
+        header h1 { margin: 0; font-size: 34px; letter-spacing: 1px; color: #e6d9ff; }
+        header p { margin-top: 12px; font-size: 16px; color: #c9b8ff; }
+
+        nav { background: #120f1f; padding: 12px 20px; text-align: center; }
+        nav a { color: #cbb7ff; margin: 0 15px; text-decoration: none; font-size: 14px; }
+        nav a:hover { color: #ffffff; }
+
+        .container { max-width: 1100px; margin: auto; padding: 40px 20px; }
+        .section { margin-bottom: 60px; }
+        .section h2 { color: #e6d9ff; margin-bottom: 20px; font-size: 26px; }
+        .section p { color: #ddd; line-height: 1.7; }
+
+        .services { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 25px; }
+        .card { background: linear-gradient(180deg, #1a1530, #0f0c1d); padding: 25px; border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
+        .card h3 { margin-top: 0; color: #d9c9ff; }
+        .card p { font-size: 14px; }
+
+        .cta { background: linear-gradient(135deg, #4b2e83, #1b1433); padding: 45px 25px; text-align: center; border-radius: 22px; }
+        .cta h2 { margin-top: 0; }
+        .cta p { color: #eee; }
+        .cta-buttons a { display: inline-block; margin: 12px; padding: 14px 28px; border-radius: 40px; font-weight: bold; text-decoration: none; }
+        .btn-call { background: #ffd54f; color: #000; }
+        .btn-zalo { background: #7c4dff; color: #fff; }
+        .btn-book { background: #ffffff; color: #1b1433; }
+
+        .floating-buttons { position: fixed; right: 20px; bottom: 20px; display: flex; flex-direction: column; gap: 12px; z-index: 999; }
+        .floating-buttons a { width: 54px; height: 54px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; text-align: center; font-weight: bold; text-decoration: none; }
+        .float-call { background: #ffd54f; color: #000; }
+        .float-zalo { background: #7c4dff; color: #fff; }
+
+        footer { background: #120f1f; color: #999; text-align: center; padding: 25px; font-size: 13px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Japan Spa Vĩnh Phúc</h1>
+        <p>Xông Hơi – Massage Chuẩn Nhật • Không Gian Tím Đen Cao Cấp</p>
+    </header>
+
+    <nav>
+        <a href="#gioi-thieu">Giới thiệu</a>
+        <a href="#dich-vu">Dịch vụ</a>
+        <a href="#seo">Vì sao chọn Japan Spa</a>
+        <a href="#lien-he">Liên hệ</a>
+    </nav>
+
+    <div class="container">
+        <section id="gioi-thieu" class="section">
+            <h2>Japan Spa – Xông Hơi Massage Cao Cấp Tại Vĩnh Phúc</h2>
+            <p>Japan Spa Vĩnh Phúc mang phong cách spa Nhật Bản hiện đại, thiết kế không gian tím đen sang trọng, yên tĩnh và riêng tư. Mỗi phòng spa rộng rãi, sạch sẽ, hương thơm dịu nhẹ giúp khách hàng thư giãn sâu và phục hồi năng lượng toàn diện.</p>
+        </section>
+
+        <section id="dich-vu" class="section">
+            <h2>Dịch vụ nổi bật</h2>
+            <div class="services">
+                <div class="card">
+                    <h3>Xông hơi đá muối Nhật Bản</h3>
+                    <p>Hỗ trợ thải độc, làm ấm cơ thể, tăng tuần hoàn máu và cải thiện giấc ngủ.</p>
+                </div>
+                <div class="card">
+                    <h3>Massage toàn thân thư giãn</h3>
+                    <p>Giảm căng thẳng, đau mỏi vai gáy – lưng – chân, phục hồi thể lực nhanh chóng.</p>
+                </div>
+                <div class="card">
+                    <h3>Chăm sóc sức khỏe chuyên sâu</h3>
+                    <p>Liệu trình cao cấp giúp cân bằng cơ thể, tinh thần và nâng cao chất lượng sống.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="seo" class="section">
+            <h2>Vì sao khách hàng chọn Japan Spa Vĩnh Phúc?</h2>
+            <p>✔ Spa xông hơi massage chuẩn Nhật tại Vĩnh Phúc<br>
+               ✔ Không gian tím đen cao cấp, riêng tư<br>
+               ✔ Phòng rộng, sạch sẽ, thơm tho<br>
+               ✔ Nhân viên chuyên nghiệp, thân thiện<br>
+               ✔ Phù hợp thư giãn, tiếp khách, phục hồi sức khỏe</p>
+        </section>
+
+        <section class="section">
+            <div class="cta">
+                <h2>Đặt lịch Japan Spa ngay hôm nay</h2>
+                <p>Thư giãn – Tái tạo năng lượng – Trải nghiệm spa chuẩn Nhật</p>
+                <div class="cta-buttons">
+                    <a href="tel:0355.556.423" class="btn-call">Gọi ngay</a>
+                    <a href="https://zalo.me/0978 964 488" class="btn-zalo">Zalo</a>
+                    <a href="#lien-he" class="btn-book">Đặt lịch</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="lien-he" class="section">
+            <h2>Liên hệ Japan Spa Vĩnh Phúc</h2>
+            <p><strong>Địa chỉ:<https://maps.app.goo.gl/hWzJLuLChPJtBMkR8> Vĩnh Phúc</p>
+            <p><strong>Hotline:</strong> 0978 964 488</p>
+            <p><strong>Giờ mở cửa:</strong> 09:00 – 3:00</p>
+        </section>
+    </div>
+
+    <div class="floating-buttons">
+        <a href="tel:0978 964 488 " class="float-call">Gọi</a>
+        <a href="https://zalo.me/0978 964 488 " class="float-zalo">Zalo</a>
+    </div>
+
+    <footer>
+        © 2026 Japan Spa Vĩnh Phúc – Xông Hơi Massage Chuẩn Nhật. All rights reserved.
+    </footer>
+</body>
+</html>
